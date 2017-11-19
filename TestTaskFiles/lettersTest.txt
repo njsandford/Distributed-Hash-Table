@@ -1,0 +1,4 @@
+This file is used to test the functionality of the text analysis.
+Test test test.
+This file contains various letters.
+This file contains several space/blank characters.

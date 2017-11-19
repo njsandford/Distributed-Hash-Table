@@ -1,0 +1,4 @@
+This file is used to test the functionality of the text file analysis.
+
+This file contains a black line.
+This file contains 4 lines in total.
